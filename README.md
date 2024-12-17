@@ -8,10 +8,10 @@ This project is a single-page CV created with **HTML**.
    git clone https://github.com/your-username/my-html-cv-project.git
 2. Open the index.html file in your web browser.
 
-Live Demo
+Live Demo:
 View the project live here: [Project Page](https://roadmap.sh/projects/single-page-cv)
 
-Technologies Used
+Technologies Used:
 HTML
 
 ## Author
