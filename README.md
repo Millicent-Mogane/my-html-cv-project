@@ -1,10 +1,5 @@
 # My HTML CV Project
 
-This project is a single-page CV created using **HTML** and **CSS**. It demonstrates clean code structure, semantic HTML, and a responsive layout.
-
-## How to Run the Project
-# My HTML CV Project
-
 This project is a single-page CV created with **HTML** and **CSS**.
 
 ## How to Run the Project
