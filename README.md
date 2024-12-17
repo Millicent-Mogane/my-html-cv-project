@@ -18,5 +18,5 @@ CSS3
 ## Author
 **Tshenolo Millicent Mogane**  
 - [LinkedIn](https://www.linkedin.com/in/tshenolo-millicent-mogane-3a0914192/)  
-- [GitHub](https://github.com/github-Millicent-Mogane)
+- [GitHub](https://github.com/Millicent-Mogane)
 
