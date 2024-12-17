@@ -3,14 +3,15 @@
 This project is a single-page CV created using **HTML** and **CSS**. It demonstrates clean code structure, semantic HTML, and a responsive layout.
 
 ## How to Run the Project
-1. Clone this repository or download the project files:
+# My HTML CV Project
+
+This project is a single-page CV created with **HTML** and **CSS**.
+
+## How to Run the Project
+1. Download the project files or clone this repository:
    ```bash
-   git clone https://github.com/Millicent-Mogane/my-html-cv-project.git
-
-   
-2. Navigate to the project folder: cd single-page-cv
-
-3. Open the index.html file in any modern web browser (e.g., Chrome, Firefox, Edge)
+   git clone https://github.com/your-username/my-html-cv-project.git
+2. Open the index.html file in your web browser.
 
 Live Demo
 View the project live here: [Project Page](https://roadmap.sh/projects/single-page-cv)
