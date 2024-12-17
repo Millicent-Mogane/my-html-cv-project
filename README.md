@@ -1,6 +1,6 @@
 # My HTML CV Project
 
-This project is a single-page CV created with **HTML** and **CSS**.
+This project is a single-page CV created with **HTML**.
 
 ## How to Run the Project
 1. Download the project files or clone this repository:
