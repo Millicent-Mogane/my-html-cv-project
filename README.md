@@ -12,8 +12,7 @@ Live Demo
 View the project live here: [Project Page](https://roadmap.sh/projects/single-page-cv)
 
 Technologies Used
-HTML5
-CSS3
+HTML
 
 ## Author
 **Tshenolo Millicent Mogane**  
