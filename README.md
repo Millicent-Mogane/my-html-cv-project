@@ -9,7 +9,7 @@ This project is a single-page CV created with **HTML**.
 2. Open the index.html file in your web browser.
 
 Live Demo:
-View the project live here: [Project Page](https://roadmap.sh/projects/single-page-cv)
+View the project live here: [Project Page](https://millicent-mogane.github.io/my-html-cv-project/)
 
 Technologies Used:
 HTML
