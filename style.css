@@ -8,20 +8,19 @@ body {
     }
 
 .location-section {
-        text-align: center;
-        background-color: #f0f8ff;
-        color: #333;
-        padding: 20px;
-        margin-top: 20px;
-        border-radius: 10px;
-    }
-    
-    .location, .weather {
-        font-size: 18px;
-        font-weight: bold;
-        margin: 10px 0;
-    }
+    text-align: center;
+    background-color: #f0f8ff;
+    color: #333;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
 
+.location, .weather {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 10px 0;
+}
 h3 {
     color: rgb(111, 111, 238);
     }
